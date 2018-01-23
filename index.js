@@ -13,7 +13,7 @@ function johnLennonFacts(facts) {
     factsStrings.push(facts[index] + "!!!");
     index += 1;
   } 
-  return factsStrings
+  return factsStrings;
 }
 
-function iLoveTheBeatles()
+function iLoveTheBeatles(number)
