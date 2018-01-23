@@ -9,5 +9,5 @@ function theBeatlesPlay(musicians, instraments) {
 function johnLennonFacts(facts) {
   var index = 0;
   var factArray = []
-  while
+  while ()
 }
