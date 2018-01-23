@@ -11,5 +11,6 @@ function johnLennonFacts(facts) {
   var factsStrings;
   while (index < facts.length) {
     factsStrings.push()
+    index += 1;
   } 
 }
